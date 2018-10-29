@@ -1,0 +1,2 @@
+# django-rest-framework-tutorial
+In this tutorial i have create a simple API to allow admin users to view and edit the users and groups in the system. You can check out the tutorial [here](https://www.django-rest-framework.org/tutorial/quickstart). The tutorial helped me learning how REST framework fits together and how you could access user data using APIs.
